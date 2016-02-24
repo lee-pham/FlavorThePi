@@ -1,5 +1,5 @@
 # FlavorThePi
-Control the Raspberry Pi Sense Hat via mentions to @flavorthepi
+Control the Raspberry Pi Sense Hat via mentions to [@flavorthepi](www.twitter.com/flavorthepi)
 
 Tweet '@flavorthepi [a Roy G. Biv color]' and an attached LED matrix will change to the corresponding request.
   example: ```@flavorthepi orange```
