@@ -3,7 +3,9 @@ from sense_hat import SenseHat
 sense = SenseHat()
 sense.clear()
 
-for i in range(0, 10):
-    sense.show_letter(str(i))
+while True:
+    x, y, z = sense.get_accelerometer_raw().values()
+    mag = (x ** 2 + y ** 2 + z ** 2) ** 0.5
+    print(mag),
 
 sense.clear()
