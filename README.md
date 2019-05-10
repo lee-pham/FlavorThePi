@@ -1,6 +1,5 @@
 # FlavorThePi
-### Update
-Unfortunately, the actual Twitter account has been suspended. I have left the code up in hopes that others may find this usefull.
+**Update:** Unfortunately, the actual Twitter account has been suspended. I have left the code up in hopes that others may find this usefull.
 
 > Control the Raspberry Pi Sense Hat via mentions to [@flavorthepi](https://twitter.com/flavorthepi)
 >
