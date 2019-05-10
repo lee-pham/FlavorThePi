@@ -1,14 +1,17 @@
 # FlavorThePi
-Control the Raspberry Pi Sense Hat via mentions to [@flavorthepi](https://twitter.com/flavorthepi)
+### Update
+Unfortunately, the actual Twitter account has been suspended. I have left the code up in hopes that others may find this usefull.
 
-Tweet '@flavorthepi [a Roy G. Biv color]' and an attached LED matrix will change to the corresponding request.
+> Control the Raspberry Pi Sense Hat via mentions to [@flavorthepi](https://twitter.com/flavorthepi)
 
-example:
-```@flavorthepi orange```
+> Tweet '@flavorthepi [a Roy G. Biv color]' and an attached LED matrix will change to the corresponding request.
 
-Alternatively, tweet '@flavorthepi flash [message]' and your message will begin to scroll on the matrix.
+> example:
+> ```@flavorthepi orange```
 
-example:
-```@flavorthepi flash scrolling message!```
+> Alternatively, tweet '@flavorthepi flash [message]' and your message will begin to scroll on the matrix.
+
+> example:
+> ```@flavorthepi flash scrolling message!```
   
-All possible with the help of the [Twython](https://github.com/ryanmcgrath/twython) Python library that allows for access to Twitter data.
+> All possible with the help of the [Twython](https://github.com/ryanmcgrath/twython) Python library that allows for access to Twitter data.
